@@ -1,0 +1,4 @@
+logs/
+arquivo_ignorado.txt
+
+--- pasta que ao adicionar pastas ou arquivos, ele igora para subir
